@@ -25,3 +25,5 @@ secondVar = thirdVar;
 console.log('First: ', firstVar);
 console.log('Second:', secondVar);
 console.log( 'I can Do This');
+
+console.log('nino chikovani');
